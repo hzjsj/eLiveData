@@ -1,0 +1,73 @@
+{
+    "total": 40,
+    "requestId": "63",
+    "code": 200,
+    "limit": 16,
+    "data": [
+        {
+            "_id": "99",    
+            "avatarUrl": "http://dummyimage.com/20x20",
+            "email": "v.mwmchpi@qq.com",
+            "phone": 18116838482,
+            "userAccount": "i.jllsnpbyt@yhuahqdss.gm",
+            "userPassword": "quis sed minim adipisicing",
+            "userStatus": 6,
+            "username": "夏丽",
+            "_createTime": "1971-02-12",
+            "_updateTime": "1987-01-05",
+            "gender": 48
+        },
+        {
+            "_id": "15",
+            "avatarUrl": "http://dummyimage.com/20x20",
+            "email": "g.ekhqzfkv@qq.com",
+            "phone": 18181233342,
+            "userAccount": "h.byiuuwfrb@ssntrruej.sr",
+            "userPassword": "dolore",
+            "userStatus": 66,
+            "username": "曹明",
+            "_createTime": "1997-09-05",
+            "_updateTime": "1987-09-09",
+            "gender": 42
+        },
+        {
+            "_id": "41",
+            "avatarUrl": "http://dummyimage.com/20x20",
+            "email": "w.wcywnsoc@qq.com",
+            "phone": 18161076185,
+            "userAccount": "c.yvejbirs@qywxs.ca",
+            "userPassword": "tempor",
+            "userStatus": 60,
+            "username": "孟杰",
+            "_createTime": "2002-09-27",
+            "_updateTime": "2007-07-27",
+            "gender": 38
+        },
+        {
+            "_id": "4",
+            "avatarUrl": "http://dummyimage.com/20x20",
+            "email": "j.ddpulqyav@qq.com",
+            "phone": 18653661545,
+            "userAccount": "n.dxwl@rvrsywj.ba",
+            "userPassword": "aliqua ad",
+            "userStatus": 55,
+            "username": "夏平",
+            "_createTime": "1985-11-16",
+            "_updateTime": "2012-05-09",
+            "gender": 96
+        },
+        {
+            "_id": "21",
+            "avatarUrl": "http://dummyimage.com/20x20",
+            "email": "y.ikrugqy@qq.com",
+            "phone": 19862636222,
+            "userAccount": "o.tibadgqv@subc.sg",
+            "userPassword": "ad Duis laborum eu",
+            "userStatus": 78,
+            "username": "叶艳",
+            "_createTime": "1982-06-19",
+            "_updateTime": "1976-12-21",
+            "gender": 50
+        }
+    ]
+}

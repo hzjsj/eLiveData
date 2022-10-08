@@ -1,0 +1,50 @@
+<view class="e-card e-margin-top">
+	<view class="e-title">
+		直播分析
+	</view>
+	<view class="e-flex">
+		<view class="e-flex-item e-bgcolor-one">
+			<view class="e-text-title">GMV</view>
+			<view class="e-text-title">{{liveAnalysis.gmv}}</view>
+		</view>
+		<view class="e-flex-item e-bgcolor-two">
+			<view class="e-text-title">PCU</view>
+			<view class="e-text-title">{{liveAnalysis.pcu}}</view>
+
+		</view>
+		<view class="e-flex-item e-bgcolor-three">
+			<view class="e-text-title">平均停留时长</view>
+			<view class="e-text-title">
+				{{liveAnalysis.averageTime.value}} <text class="e-text-title-text">较上次 <text>{{liveAnalysis.averageTime.lastTime}} <text class="iconfont icon-tubiaoshangshengqushi"></text></text></text>
+			</view>
+
+		</view>
+		<view class="e-flex-item e-bgcolor-four">
+			<view class="e-text-title">ACU</view>
+			<view class="e-text-title">
+				{{liveAnalysis.acu.value}} <text class="e-text-title-text">较上次 <text>	{{liveAnalysis.acu.lastTime}}  <text class="iconfont icon-tubiaoshangshengqushi"></text></text></text>
+
+			</view>
+
+		</view>
+	</view>
+</view>
+
+<view class="e-card e-margin-top">
+	<ec-canvas id="mychart-dom-line" canvas-id="mychart-line" ec="{{ ec }}"></ec-canvas>
+</view>
+<view class="e-card e-margin-top">
+	<ec-canvas id="mychart-dom-multi-bar" canvas-id="mychart-multi-bar" ec="{{ ecBar }}"></ec-canvas>
+</view>
+
+<view class="e-card e-margin-top">
+	<view class="e-title">
+		销售榜单
+	</view>
+	<view class="e-cell-top" wx:for="{{topSale}}" wx:key="index" wx:if="{{index < 4}}">
+		<text class="e-cell-top-text">{{index + 1}}</text>
+		<text>{{item.tradeName}}</text>
+	</view>
+</view>
+
+<view class="e-bottom"></view>

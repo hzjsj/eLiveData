@@ -1,0 +1,94 @@
+{
+    "code": 200,
+    "liveAnalysis": {
+        "gmv": 12256,
+        "pcu": 1138,
+        "acu": {
+            "value": 4592,
+            "lastTime": 112
+        },
+        "averageTime":{
+            "value": 3256,
+            "lastTime": 588
+        }
+    },
+    "orderQuantity":{
+        "title":"订单数量-基础折线图",
+        "titleText":"订单数量",
+        "xAxisData": ["1月", "2月", "3月", "4月", "5月"],
+        "seriesData": [100, 140, 224, 100, 139]
+    },
+    "orderAmount":{
+        "title":"订单金额-基本柱状图",
+        "titleText":"订单金额",
+        "xAxisData": ["1月", "2月", "3月", "4月", "5月"],
+        "seriesData": [100, 140, 224, 100, 139]
+    },
+    "topSale": [
+        {
+            "ranking": 1,
+            "tradeName": "用魔法打败魔法",
+            "orderQuantity": 1500,
+            "clickRate": 32214
+        },
+        {
+            "ranking": 2,
+            "tradeName": "王多鱼",
+            "orderQuantity": 1500,
+            "clickRate": 32214
+        },
+        {
+            "ranking": 3,
+            "tradeName": "小李子",
+            "orderQuantity": 1500,
+            "clickRate": 32214
+        },
+        {
+            "ranking": 4,
+            "tradeName": "用魔法打败魔法",
+            "orderQuantity": 1500,
+            "clickRate": 32214
+        },
+        {
+            "ranking": 5,
+            "tradeName": "用魔法打败魔法",
+            "orderQuantity": 1500,
+            "clickRate": 32214
+        },
+        {
+            "ranking": 6,
+            "tradeName": "用魔法打败魔法",
+            "orderQuantity": 1500,
+            "clickRate": 32214
+        },
+        {
+            "ranking": 7,
+            "tradeName": "用魔法打败魔法",
+            "orderQuantity": 1500,
+            "clickRate": 32214
+        },
+        {
+            "ranking": 8,
+            "tradeName": "用魔法打败魔法",
+            "orderQuantity": 1500,
+            "clickRate": 32214
+        },
+        {
+            "ranking": 9,
+            "tradeName": "用魔法打败魔法",
+            "orderQuantity": 1500,
+            "clickRate": 32214
+        },
+        {
+            "ranking": 10,
+            "tradeName": "用魔法打败魔法",
+            "orderQuantity": 1500,
+            "clickRate": 32214
+        }
+    ],
+    "userDataAnalysis":{
+        "title": "用户数据分析-折柱混合",
+        "xAxisData": ["1月", "2月", "3月", "4月", "5月","6月", "7月", "8月", "9月", "10月", "11月", "12月"],
+        "seriesData": "数据有点复杂,你们先画图"
+    }
+}

@@ -1,0 +1,17 @@
+<view class="e-card e-margin-top">
+  <ec-canvas id="mychart-dom-line" canvas-id="mychart-line" ec="{{ ec }}"></ec-canvas>
+</view>
+
+<view class="e-card e-margin-top e-card-sm" >
+  <ec-canvas id="mychart-dom-three-pie" canvas-id="mychart-pie" ec="{{ ecPie }}"></ec-canvas>
+</view>
+
+<view class="e-card e-margin-top">
+  <ec-canvas id="mychart-dom-multi-bar" canvas-id="mychart-multi-bar" ec="{{ ecBar }}"></ec-canvas>
+</view>
+
+<view class="e-card e-margin-top">
+  <ec-canvas id="mychart-dom-pie" canvas-id="mychart-pie" ec="{{ ecPie }}"></ec-canvas>
+</view>
+
+<view class="e-bottom"></view>

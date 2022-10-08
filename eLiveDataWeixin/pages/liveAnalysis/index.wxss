@@ -1,0 +1,91 @@
+/**index.wxss**/
+@import "../../utils/iconfont.wxss";
+
+ec-canvas {
+	width: 100%;
+	height: 100%;
+	background-color: red;
+}
+
+.e-margin-top {
+	margin: 20rpx 20rpx 0;
+}
+
+.e-card {
+	width: 710rpx;
+	height: 500rpx;
+	background-color: #F6F6F6;
+	padding-top: 20rpx;
+	border-radius: 36rpx;
+}
+
+.e-title {
+	margin-left: 8%;
+	font-size: 112%;
+	font-weight: bold;
+	color: #333;
+	height: 60rpx;
+}
+
+.e-flex {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.e-flex-item {
+	flex: 0 0 335rpx;
+	margin: 10rpx;
+	height: 180rpx;
+	border-radius: 36rpx;
+}
+
+.e-text-title {
+	margin-left: 30rpx;
+	padding-top: 30rpx;
+}
+
+.e-text-title-text {
+	margin-left: 20rpx;
+	font-size: 22rpx;
+}
+
+.e-text-title-text text {
+	color: red;
+}
+
+.e-bgcolor-one {
+	background-color: #fdecd8;
+}
+
+.e-bgcolor-two {
+	background-color: #f9c78b;
+}
+
+.e-bgcolor-three {
+	background-color: #cecece;
+}
+
+.e-bgcolor-four {
+	background-color: #fdecd8;
+}
+
+.e-cell-top {
+	height: 100rpx;
+	margin: 0rpx 30rpx;
+	display: flex;
+	align-items: center;
+	border-bottom: 1px solid #f3f3f3;
+}
+
+.e-cell-top-text {
+	width: 100rpx;
+	text-align: center;
+	color: #f39423;
+	font-size: 126%;
+	font-weight: bold;
+}
+
+
+.e-bottom {
+	height: 20rpx;
+}

@@ -1,0 +1,130 @@
+{
+    "code": 200,
+    "product": {
+        "onlineGoods": 37,
+        "offlineGoods": 547,
+        "goods":47
+    },
+    "data": [
+        {
+            "number": "232",
+            "name": "iPhone14",
+            "link": "iPhone14",
+            "type": "数码",
+            "price": "5999",
+            "clickRate": "82%",
+            "orderPlacementRate": "30%",
+            "state": "已上架",
+            "uptime": "2022-09-22",
+            "downtime": "-"
+        },
+        {
+            "number": "232",
+            "name": "iPhone14",
+            "link": "iPhone14",
+            "type": "数码",
+            "price": "5999",
+            "clickRate": "82%",
+            "orderPlacementRate": "30%",
+            "state": "已上架",
+            "uptime": "2022-09-22",
+            "downtime": "-"
+        },
+        {
+            "number": "232",
+            "name": "iPhone14",
+            "link": "iPhone14",
+            "type": "数码",
+            "price": "5999",
+            "clickRate": "82%",
+            "orderPlacementRate": "30%",
+            "state": "已上架",
+            "uptime": "2022-09-22",
+            "downtime": "-"
+        },
+        {
+            "number": "232",
+            "name": "iPhone14",
+            "link": "iPhone14",
+            "type": "数码",
+            "price": "5999",
+            "clickRate": "82%",
+            "orderPlacementRate": "30%",
+            "state": "已上架",
+            "uptime": "2022-09-22",
+            "downtime": "-"
+        },
+        {
+            "number": "232",
+            "name": "iPhone14",
+            "link": "iPhone14",
+            "type": "数码",
+            "price": "5999",
+            "clickRate": "82%",
+            "orderPlacementRate": "30%",
+            "state": "已上架",
+            "uptime": "2022-09-22",
+            "downtime": "-"
+        },
+        {
+            "number": "232",
+            "name": "iPhone14",
+            "link": "iPhone14",
+            "type": "数码",
+            "price": "5999",
+            "clickRate": "82%",
+            "orderPlacementRate": "30%",
+            "state": "已上架",
+            "uptime": "2022-09-22",
+            "downtime": "-"
+        },
+        {
+            "number": "232",
+            "name": "iPhone14",
+            "link": "iPhone14",
+            "type": "数码",
+            "price": "5999",
+            "clickRate": "82%",
+            "orderPlacementRate": "30%",
+            "state": "已上架",
+            "uptime": "2022-09-22",
+            "downtime": "-"
+        },
+        {
+            "number": "232",
+            "name": "iPhone14",
+            "link": "iPhone14",
+            "type": "数码",
+            "price": "5999",
+            "clickRate": "82%",
+            "orderPlacementRate": "30%",
+            "state": "已上架",
+            "uptime": "2022-09-22",
+            "downtime": "-"
+        },
+        {
+            "number": "232",
+            "name": "iPhone14",
+            "link": "iPhone14",
+            "type": "数码",
+            "price": "5999",
+            "clickRate": "82%",
+            "orderPlacementRate": "30%",
+            "state": "已上架",
+            "uptime": "2022-09-22",
+            "downtime": "-"
+        },
+        {
+            "number": "232",
+            "name": "iPhone14",
+            "link": "iPhone14",
+            "type": "数码",
+            "price": "5999",
+            "clickRate": "82%",
+            "orderPlacementRate": "30%",
+            "state": "已上架",
+            "uptime": "2022-09-22",
+            "downtime": "-"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+@import "../../utils/iconfont.wxss";
+
+.e-head {
+	background-color: #fdecd8;
+	height: 240rpx;
+	padding: 60rpx;
+}
+
+.e-avatar {
+	width: 160rpx;
+	height: 160rpx;
+	border-radius: 50%;
+}
+
+.e-view-avatar {
+	width: 160rpx;
+	height: 160rpx;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.e-user-title {
+	margin-top: 16rpx;
+}
+
+.e-bg {
+	background-color: #fdecd8;
+}
+
+.e-user-info {
+	background-color: white;
+	padding: 50rpx 60rpx;
+	border-bottom: 1px solid #ccc;
+	border-radius: 80rpx 80rpx 0 0;
+}
+
+.e-user-info-col {
+	height: 80rpx;
+	display: flex;
+	align-items: center;
+}
+
+.e-user-info-col-title {
+	width: 150rpx;
+	margin-right: 60rpx;
+}
+
+.e-cell-top {
+	height: 120rpx;
+	padding: 0rpx 60rpx;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	background-color: white;
+}
+
+.e-user-info-anth {
+	color: #f39423;
+	background-color: #fdecd8;
+	font-size: 26rpx;
+	padding: 6rpx;
+}
+
+.iconfont {
+	margin-right: 20rpx;
+	font-size: 28rpx;
+}

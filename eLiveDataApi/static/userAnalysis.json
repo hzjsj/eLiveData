@@ -1,0 +1,257 @@
+{
+    "code": 200,
+    "overview":{
+        "title": "用户总览-堆叠折线图",
+        "titleText":"用户总览",
+        "total":19054,
+        "active":4785,
+        "loss":1875,
+        "growthRate":74,
+        "conversionRate":30,
+        "lossRate":46,
+        "legendData":{
+        "data": ["用户数", "活跃用户数", "流失用户数"],
+        "textStyle": {
+          "color": "#666666"
+        },
+        "orient": "horizontal",
+        "bottom": 5
+      },
+        "xAxisData": ["9-11", "9-12","9-13","9-14","9-15","9-16","9-17","9-18","9-19","9-20"],
+        "seriesData": [
+            {
+              "name": "用户数",
+              "type": "line",
+              "stack": "Total",
+              "data": [100, 140, 230, 100, 120, 220, 210,150, 130, 120],
+              "itemStyle": {
+                  "normal": {
+                    "color": "#f39423"
+                  }
+                },
+                "areaStyle": {
+                  "color": "#f39423",
+                  "opacity": 0.5
+                }
+            },
+            {
+              "name": "活跃用户数",
+              "type": "line",
+              "stack": "Total",
+              "data": [220, 182, 191, 234, 290, 330, 310,220, 210,150],
+              "itemStyle": {
+                  "normal": {
+                    "color": "#f9c78b"
+                  }
+                },
+                "areaStyle": {
+                  "color": "#f9c78b",
+                  "opacity": 0.5
+                }
+            },
+            {
+              "name": "流失用户数",
+              "type": "line",
+              "stack": "Total",
+              "data": [150, 232, 201, 154, 190, 330, 350,280,260,290],
+              "itemStyle": {
+                  "normal": {
+                    "color": "#f5a544"
+                  }
+                },
+                "areaStyle": {
+                  "color": "#f5a544",
+                  "opacity": 0.5
+                }
+            }
+          ]
+    },
+    "consume":{
+        "title": "消费能力区间-堆叠柱状图",
+        "titleText":"消费能力区间",
+        "yAxisData": ["50以下", "100-300", "300-500", "500以上"],
+        "seriesData": [
+            {
+              "type": "bar",
+              "stack": "total",
+              "label": {
+                "show": true
+              },
+              "emphasis": {
+                "focus": "series"
+              },
+              "data": [320, 362, 301, 334],
+               "itemStyle": {
+                  "normal": {
+                    "color": "#f39423"
+                  }
+                }
+            },
+            {
+              "type": "bar",
+              "stack": "total",
+              "label": {
+                "show": true
+              },
+              "emphasis": {
+                "focus": "series"
+              },
+              "data": [120, 132, 101, 134],
+                "itemStyle": {
+                  "normal": {
+                    "color": "#f9c78b"
+                  }
+                }
+            },
+            {
+              "type": "bar",
+              "stack": "total",
+              "label": {
+                "show": true
+              },
+              "emphasis": {
+                "focus": "series"
+              },
+              "data": [220, 182, 391, 234],
+                "itemStyle": {
+                  "normal": {
+                    "color": "#f5a544"
+                  }
+                }
+            }
+          ]
+    },
+    "preference":{
+        "title": "用户偏好分析-饼图圆环图",
+        "titleText":"用户偏好分析",
+        "legendData": ["家电", "食品", "美妆", "衣服", "鞋包", "书籍"],
+        "seriesData": [
+            { "value": 335, "name": "家电" },
+            { "value": 310, "name": "食品" },
+            { "value": 234, "name": "美妆" },
+            { "value": 135, "name": "衣服" },
+            { "value": 1548, "name": "鞋包" },
+            { "value": 135, "name": "书籍" }
+          ]
+    },
+    "averageIndex":{
+        "title": "日平均时段指标-堆叠折线图",
+        "xAxisData": ["8:00", "9:00", "10:00", "11:00", "12:00", "13:00", "14:00", "15:00", "16:00", "17:00", "18:00"],
+        "seriesData":[
+            {
+              "data": [10, 22, 28, 36, 42,20, 32, 28, 33, 46,50],
+              "type": "line",
+              "stack": "x"
+            },
+            {
+              "data": [10, 12, 28, 26, 12,20, 22, 28, 13, 26,20],
+              "type": "line",
+              "stack": "x"
+            }
+          ]
+    },
+    "pieAnalysis":{
+    "color": [
+        "#f39423",
+        "#cecece"
+    ],
+    "series": [
+        {
+            "type": "pie",
+            "center": [
+                "50%",
+                "50%"
+            ],
+            "data": [
+                {
+                    "name": "增长率",
+                    "value": 74
+                },
+                {
+                    "name": "",
+                    "value": 26
+                }
+            ],
+            "radius": [
+                "50%",
+                "70%"
+            ],
+            "avoidLabelOverlap": false,
+            "label": {
+                "position": "center"
+            },
+            "labelLine": {
+                "show": false
+            },
+            "left": 0,
+            "right": "66.6667%",
+            "top": 0,
+            "bottom": 0
+        },
+        {
+            "type": "pie",
+            "center": [
+                "50%",
+                "50%"
+            ],
+            "data": [
+                {
+                    "name": "",
+                    "value": 30
+                },
+                {
+                    "name": "转换率",
+                    "value": 70
+                }
+            ],
+            "radius": [
+                "50%",
+                "70%"
+            ],
+            "avoidLabelOverlap": false,
+            "label": {
+                "position": "center"
+            },
+            "labelLine": {
+                "show": false
+            },
+            "left": "33.3333%",
+            "right": "33.3333%",
+            "top": 0,
+            "bottom": 0
+        },
+        {
+            "type": "pie",
+            "center": [
+                "50%",
+                "50%"
+            ],
+            "data": [
+                {
+                    "name": "流失率",
+                    "value": 54
+                },
+                {
+                    "name": "",
+                    "value": 46
+                }
+            ],
+            "radius": [
+                "50%",
+                "70%"
+            ],
+            "avoidLabelOverlap": false,
+            "label": {
+                "position": "center"
+            },
+            "labelLine": {
+                "show": false
+            },
+            "left": "66.6667%",
+            "right": 0,
+            "top": 0,
+            "bottom": 0
+        }
+    ]
+}
+}

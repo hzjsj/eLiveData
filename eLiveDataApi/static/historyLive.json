@@ -1,0 +1,106 @@
+{
+    "code": 200,
+    "user":{
+        "userName": "111",
+        "liveTimes":47,
+        "followQuantity":468,
+        "views":15647
+    },
+    "uv":{
+        "titleText": "UV价值曲线",
+        "xAxisData": ["9-11", "9-12","9-13","9-14","9-15","9-16","9-17","9-18","9-19","9-20","9-21","9-22"],
+        "seriesData": [100, 140, 230, 100, 120, 220, 210,150, 130, 120, 190, 220]
+    },
+    "historyLive": [
+        {
+            "id":1,
+            "liveTime": "2022-9-30",
+            "timeSlot": "16:30~18:47",
+            "liveContent": "疯狂星期四宠粉大促",
+            "liveDuration": "2小时10分钟",
+            "views": 15674778,
+            "orderQuantity": 34678,
+            "orderAmount": 3147856
+        },
+        {
+            "id":2,
+            "liveTime": "2022-9-30",
+            "timeSlot": "16:30~18:47",
+            "liveContent": "疯狂星期四宠粉大促",
+            "liveDuration": "2小时10分钟",
+            "views": 15674778,
+            "orderQuantity": 34678,
+            "orderAmount": 3147856
+        },
+        {
+            "id":3,
+            "liveTime": "2022-9-30",
+            "timeSlot": "16:30~18:47",
+            "liveContent": "疯狂星期四宠粉大促",
+            "liveDuration": "2小时10分钟",
+            "views": 15674778,
+            "orderQuantity": 34678,
+            "orderAmount": 3147856
+        },
+        {
+            "id":4,
+            "liveTime": "2022-9-30",
+            "timeSlot": "16:30~18:47",
+            "liveContent": "疯狂星期四宠粉大促",
+            "liveDuration": "2小时10分钟",
+            "views": 15674778,
+            "orderQuantity": 34678,
+            "orderAmount": 3147856
+        },
+        {
+            "id":5,
+            "liveTime": "2022-9-30",
+            "timeSlot": "16:30~18:47",
+            "liveContent": "疯狂星期四宠粉大促",
+            "liveDuration": "2小时10分钟",
+            "views": 15674778,
+            "orderQuantity": 34678,
+            "orderAmount": 3147856
+        },
+        {
+            "id":6,
+            "liveTime": "2022-9-30",
+            "timeSlot": "16:30~18:47",
+            "liveContent": "疯狂星期四宠粉大促",
+            "liveDuration": "2小时10分钟",
+            "views": 15674778,
+            "orderQuantity": 34678,
+            "orderAmount": 3147856
+        },
+        {
+            "id":7,
+            "liveTime": "2022-9-30",
+            "timeSlot": "16:30~18:47",
+            "liveContent": "疯狂星期四宠粉大促",
+            "liveDuration": "2小时10分钟",
+            "views": 15674778,
+            "orderQuantity": 34678,
+            "orderAmount": 3147856
+        },
+        {
+            "id":8,
+            "liveTime": "2022-9-30",
+            "timeSlot": "16:30~18:47",
+            "liveContent": "疯狂星期四宠粉大促",
+            "liveDuration": "2小时10分钟",
+            "views": 15674778,
+            "orderQuantity": 34678,
+            "orderAmount": 3147856
+        },
+        {
+            "id":9,
+            "liveTime": "2022-9-30",
+            "timeSlot": "16:30~18:47",
+            "liveContent": "疯狂星期四宠粉大促",
+            "liveDuration": "2小时10分钟",
+            "views": 15674778,
+            "orderQuantity": 34678,
+            "orderAmount": 3147856
+        }
+    ]
+}

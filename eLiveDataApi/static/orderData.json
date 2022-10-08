@@ -1,0 +1,100 @@
+{
+    "code": 200,
+    "product": {
+        "totalOrders": 3547,
+        "totalTransactions": 122547,
+        "averagePrice": 347
+    },
+    "data": [
+        {
+            "number": "232",
+            "link": "iPhone14",
+            "userName": "张三",
+            "price": 5999,
+            "createTime": "2022-9-27",
+            "transactionTime": "-",
+            "state": "已取消"
+        },
+        {
+            "number": "233",
+            "link": "iPhone14",
+            "userName": "李四",
+            "price": 5999,
+            "createTime": "2022-9-27 10:20",
+            "transactionTime": "2022-9-27 10:20",
+            "state": "已完成"
+        },
+        {
+            "number": "234",
+            "link": "iPhone14",
+            "userName": "李四",
+            "price": 5999,
+            "createTime": "2022-9-27 10:20",
+            "transactionTime": "2022-9-27 10:20",
+            "state": "已完成"
+        },
+        {
+            "number": "235",
+            "link": "iPhone14",
+            "userName": "李四",
+            "price": 5999,
+            "createTime": "2022-9-27 10:20",
+            "transactionTime": "2022-9-27 10:20",
+            "state": "已完成"
+        },
+        {
+            "number": "236",
+            "link": "iPhone14",
+            "userName": "李四",
+            "price": 5999,
+            "createTime": "2022-9-27 10:20",
+            "transactionTime": "2022-9-27 10:20",
+            "state": "已完成"
+        },
+        {
+            "number": "237",
+            "link": "iPhone14",
+            "userName": "张三",
+            "price": 5999,
+            "createTime": "2022-9-27",
+            "transactionTime": "-",
+            "state": "已取消"
+        },
+        {
+            "number": "238",
+            "link": "iPhone14",
+            "userName": "张三",
+            "price": 5999,
+            "createTime": "2022-9-27",
+            "transactionTime": "-",
+            "state": "已取消"
+        },
+        {
+            "number": "239",
+            "link": "iPhone14",
+            "userName": "张三",
+            "price": 5999,
+            "createTime": "2022-9-27",
+            "transactionTime": "-",
+            "state": "已取消"
+        },
+        {
+            "number": "240",
+            "link": "iPhone14",
+            "userName": "张三",
+            "price": 5999,
+            "createTime": "2022-9-27",
+            "transactionTime": "-",
+            "state": "已取消"
+        },
+        {
+            "number": "242",
+            "link": "iPhone14",
+            "userName": "张三",
+            "price": 5999,
+            "createTime": "2022-9-27",
+            "transactionTime": "-",
+            "state": "已取消"
+        }
+    ]
+}

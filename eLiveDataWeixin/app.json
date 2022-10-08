@@ -1,0 +1,42 @@
+{
+	"pages": [
+		"pages/live/index",
+		"pages/liveAnalysis/index",
+    "pages/users/index",
+		"pages/my/index"
+	],
+	"tabBar": {
+		"color": "#666666",
+		"selectedColor": "#f39423",
+		"borderStyle": "black",
+		"backgroundColor": "#FFFFFF",
+		"list": [
+			{
+				"pagePath": "pages/live/index",
+				"text": "直播",
+				"iconPath": "images/tabbar/live.png",
+				"selectedIconPath": "images/tabbar/live_select.png"
+			},
+			{
+				"pagePath": "pages/users/index",
+				"text": "用户",
+				"iconPath": "images/tabbar/user.png",
+				"selectedIconPath": "images/tabbar/user_select.png"
+			},
+			{
+				"pagePath": "pages/my/index",
+				"text": "我的",
+				"iconPath": "images/tabbar/my.png",
+				"selectedIconPath": "images/tabbar/my_select.png"
+			}
+		]
+	},
+	"window": {
+		"backgroundColor": "#f1f1f1",
+		"backgroundTextStyle": "light",
+		"navigationBarBackgroundColor": "#F6F6F6",
+		"navigationBarTitleText": "直播",
+		"navigationBarTextStyle": "black"
+	},
+	"sitemapLocation": "sitemap.json"
+}

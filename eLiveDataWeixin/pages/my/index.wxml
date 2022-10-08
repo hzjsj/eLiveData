@@ -1,0 +1,44 @@
+<view class="e-head">
+	<view class="e-view-avatar">
+		<image class="e-avatar" src="{{userInfo.avatarUrl}}"></image>
+		<view class="e-user-title">{{userInfo.userName}}</view>
+	</view>
+</view>
+<view class="e-bg">
+	<view class="e-user-info">
+		<view class="e-user-info-col">
+			<text class="e-user-info-col-title">账户ID:</text>
+			<text>{{userInfo.userId}}</text>
+		</view>
+		<view class="e-user-info-col">
+			<text class="e-user-info-col-title">实名认证:</text>
+			<text class="e-user-info-anth">{{userInfo.authentication ? "已认证" : "未认证" }}</text>
+		</view>
+		<view class="e-user-info-col">
+			<text class="e-user-info-col-title">注册时间:</text>
+			<text>{{userInfo.createTime}}</text>
+		</view>
+		<view class="e-user-info-col">
+			<text class="e-user-info-col-title">手机号码:</text>
+			<text>{{userInfo.phoneNumber}}</text>
+		</view>
+	</view>
+</view>
+<view class="e-margin-top">
+	<view class="e-cell-top">
+		<text class="e-cell-top-text">
+			<text class="iconfont icon-star"></text> 实名认证</text>
+		<text><text class="iconfont icon-xiangyoujiantou"></text></text>
+	</view>
+	<view class="e-cell-top">
+		<text class="e-cell-top-text">
+			<text class="iconfont icon-lock"></text> 安全设置</text>
+		<text><text class="iconfont icon-xiangyoujiantou"></text></text>
+	</view>
+
+	<view class="e-cell-top">
+		<text class="e-cell-top-text">
+			<text class="iconfont icon-shezhi"></text> 我的设置</text>
+		<text><text class="iconfont icon-xiangyoujiantou"></text></text>
+	</view>
+</view>
